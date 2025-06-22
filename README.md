@@ -1,14 +1,12 @@
-| DevOps
+# DevOps
 DevOps
 
 
-|| DevOps Role Repositories
+## DevOps Role Repositories
 
 
 | | Projects | Descriptions | Topics | 
 | - | :-: | :-: | :-: |
-
-
 | - | ![airflowser 💠](https://github.com/miozilla/airflowser) | Cloud Composer | airflow, dag |  
 | - | ![az204_apim 🔥](https://github.com/miozilla/az204_apim) | Technology & Events | api_management | 
 | - | ![azmredis ♦️](https://github.com/miozilla/azmredis) | Azure Managed Redis | go, python 
