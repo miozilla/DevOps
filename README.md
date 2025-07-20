@@ -11,6 +11,7 @@ DevOps
 | - | ![az204_apim 🔥](https://github.com/miozilla/az204_apim) | Technology & Events | api_management | 
 | - | ![azmredis ♦️](https://github.com/miozilla/azmredis) | Azure Managed Redis | go, python 
 | - | ![contapp001 🐳](https://github.com/miozilla/contapp001) | Container App | k8s, mcr, container-app |
+| - | ![controlmdag Ⓜ️🗡️](https://github.com/miozilla/controlmdag) | BMC Control-M Migration | Control M, Apache Airflow, DAGify, Composer | 
 | - | ![eventgridmqtt 🚡](https://github.com/miozilla/eventgridmqtt) | Event Grid | Event Grid, MQTT  |
 | - | ![frontakst 🎡](https://github.com/miozilla/frontakst) | Azure Kubernetes Service | aks, terraform, rabbitmq, prometheus, grafana, vue, rust, node |
 | - | ![functapp001 🌩️](https://github.com/miozilla/functapp001) | Function App | azure_function_app |
