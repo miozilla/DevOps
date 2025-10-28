@@ -8,6 +8,7 @@ DevOps
 | | Projects | Descriptions | Topics | 
 | - | :-: | :-: | :-: |
 | - | ![airflowser 💠](https://github.com/miozilla/airflowser) | Cloud Composer | Airflow, dag |  
+| - | ![artifareg 🦕🗄️](https://github.com/miozilla/artifareg) | Artifact Registry | Package Manager, Repository, Docker |
 | - | ![az204_apim 🔥](https://github.com/miozilla/az204_apim) | Technology & Events | Api_management | 
 | - | ![azmredis ♦️](https://github.com/miozilla/azmredis) | Azure Managed Redis | Go, python |
 | - | ![contapp001 🐳](https://github.com/miozilla/contapp001) | Container App | K8s, mcr, container-app |
@@ -23,3 +24,4 @@ DevOps
 | - | ![pubsub 🚰](https://github.com/miozilla/pubsub) | Google Pub/Sub | Pub/Sub |
 | - | ![stepsightbird 👣🔭🦅](https://github.com/miozilla/stepsightbird) | Bird Sighting | AWS Step Functions, Lambda, SNS, Cloud9, Cognito |
 | - | ![terraformgm](https://github.com/miozilla/terraformgm) | Terraform GCP | Terraform |
+
