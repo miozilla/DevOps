@@ -20,8 +20,10 @@ DevOps
 | - | ![gke-hello-app 🧊🙋](https://github.com/miozilla/gke-hello-app) | Google Kubernetes Engine Cluster Demo | GKE, Gemini, Cloud Architect |
 | - | ![jensiform 🤵🏻](https://github.com/miozilla/jensiform) | Infrastructure | Jenkins, Ansible, Terraform |
 | - | ![logic-app 📳](https://github.com/miozilla/logic-app) | RSS Market Feed, Social Media Content Distribution | Logic-app |
+| - | ![miorgcmon 🪔🕵️‍♂️👾](https://github.com/miozilla/miorgcmon) | Cloud Observability Monitoring | LAMP, Uptime check, alerting policy, logging, dashboard & chart | 
 | - | ![mioriot 📶](https://github.com/miozilla/mioriot) | Internet of Things | IoT-hub, central-app |
 | - | ![oraclecomput 🐧](https://github.com/miozilla/oraclecomput) | Azure Compute | Compute, vm, bash, ssh, key-pair, oracle-linux8 |
 | - | ![pubsub 🚰](https://github.com/miozilla/pubsub) | Google Pub/Sub | Pub/Sub |
 | - | ![stepsightbird 👣🔭🦅](https://github.com/miozilla/stepsightbird) | Bird Sighting | AWS Step Functions, Lambda, SNS, Cloud9, Cognito |
 | - | ![terraformgm](https://github.com/miozilla/terraformgm) | Terraform GCP | Terraform |
+
