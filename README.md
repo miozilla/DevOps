@@ -12,6 +12,7 @@ DevOps
 | - | ![az204_apim 🔥](https://github.com/miozilla/az204_apim) | Technology & Events | Api_management | 
 | - | ![azmredis ♦️](https://github.com/miozilla/azmredis) | Azure Managed Redis | Go, python |
 | - | ![canarybg 🐤📚🦚](https://github.com/miozilla/canarybg) | Fortune-App | Manage Deployments by Kubernetes Engine, Canary, Blue-Green |
+| - | ![clfc02d1 💾☁️🪣](https://github.com/miozilla/clfc02d1) | Amazon S3 | Simple Storage Service, Bucket Policy, CLF-C02 # 
 | - | ![contapp001 🐳](https://github.com/miozilla/contapp001) | Container App | K8s, mcr, container-app |
 | - | ![controlmdag Ⓜ️🗡️](https://github.com/miozilla/controlmdag) | BMC Control-M Migration | Control M, Apache Airflow, DAGify, Composer | 
 | - | ![eventgridmqtt 🚡](https://github.com/miozilla/eventgridmqtt) | Event Grid | Event Grid, MQTT  |
