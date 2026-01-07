@@ -18,7 +18,7 @@ DevOps
 | - | ![cloudrun 🏃🌩️](https://github.com/miozilla/cloudrun) | Managed Compute Platform | Cloud Run, Serverless, Stateless, Container | 
 | - | ![contapp001 🐳](https://github.com/miozilla/contapp001) | Container App | K8s, mcr, container-app |
 | - | ![controlmdag Ⓜ️🗡️](https://github.com/miozilla/controlmdag) | BMC Control-M Migration | Control M, Apache Airflow, DAGify, Composer | 
-| - | ![dockergcp 🐳⚓](https://github.com/miozilla/dockergcp) | Docker Container | Cloud Shell, Docker, Google Artifact Registry | 
+| - | ![dockergcp 🐳👖⚓](https://github.com/miozilla/dockergcp) | Docker Container | Cloud Shell, Docker, Google Artifact Registry | 
 | - | ![eventgridmqtt 🚡](https://github.com/miozilla/eventgridmqtt) | Event Grid | Event Grid, MQTT  |
 | - | ![frontakst 🎡](https://github.com/miozilla/frontakst) | Azure Kubernetes Service | AKS, terraform, rabbitmq, prometheus, grafana, vue, rust, node |
 | - | ![functapp001 🌩️](https://github.com/miozilla/functapp001) | Function App | Azure_function_app |
