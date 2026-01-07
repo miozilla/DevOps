@@ -15,7 +15,7 @@ DevOps
 | - | ![clfc02d1 💾☁️🪣](https://github.com/miozilla/clfc02d1) | Amazon S3 | Simple Storage Service, Bucket Policy, CLF-C02 | 
 | - | ![clfc02d2 ⚡🌉⌚](https://github.com/miozilla/clfc02d2) | AWS Lambda Amazon EventBridge | Monitoring, EC2, CloudWatch, CLF-C02 | 
 | - | ![clfc02d3 🖼️💻📦](https://github.com/miozilla/clfc02d3) | Amazon Machine Image | AMI, EC2, EBS, CLF-C02 | 
-| - | ![cloudrun 🏃🌩️](https://github.com/miozilla/cloudrun) | Managed Compute Platform | Cloud Run, Serverless, Stateless, Container # 
+| - | ![cloudrun 🏃🌩️](https://github.com/miozilla/cloudrun) | Managed Compute Platform | Cloud Run, Serverless, Stateless, Container | 
 | - | ![contapp001 🐳](https://github.com/miozilla/contapp001) | Container App | K8s, mcr, container-app |
 | - | ![controlmdag Ⓜ️🗡️](https://github.com/miozilla/controlmdag) | BMC Control-M Migration | Control M, Apache Airflow, DAGify, Composer | 
 | - | ![eventgridmqtt 🚡](https://github.com/miozilla/eventgridmqtt) | Event Grid | Event Grid, MQTT  |
