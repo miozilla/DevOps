@@ -23,6 +23,7 @@ DevOps
 | - | ![frontakst 🎡](https://github.com/miozilla/frontakst) | Azure Kubernetes Service | AKS, terraform, rabbitmq, prometheus, grafana, vue, rust, node |
 | - | ![functapp001 🌩️](https://github.com/miozilla/functapp001) | Function App | Azure_function_app |
 | - | ![gke-hello-app 🧊🙋](https://github.com/miozilla/gke-hello-app) | Google Kubernetes Engine Cluster Demo | GKE, Gemini, Cloud Architect |
+| - | ![jenkinsonkube 🛞👨‍🍳⚓](https://github.com/miozilla/jenkinsonkube) | Jenkins on Kubernetes Engine | Helm, Jenkins, Kubernetes Cluster | 
 | - | ![jensiform 🤵🏻](https://github.com/miozilla/jensiform) | Infrastructure | Jenkins, Ansible, Terraform |
 | - | ![logic-app 📳](https://github.com/miozilla/logic-app) | RSS Market Feed, Social Media Content Distribution | Logic-app |
 | - | ![miorgcmon 🪔🕵️‍♂️👾](https://github.com/miozilla/miorgcmon) | Cloud Observability Monitoring | LAMP, Uptime check, alerting policy, logging, dashboard & chart | 
