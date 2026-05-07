@@ -12,6 +12,7 @@ DevOps
 | - | ![az204_apim 🔥](https://github.com/miozilla/az204_apim) | Technology & Events | Api_management | 
 | - | ![azmredis ♦️](https://github.com/miozilla/azmredis) | Azure Managed Redis | Go, python |
 | - | ![canarybg 🐤📚🦚](https://github.com/miozilla/canarybg) | Fortune-App | Manage Deployments by Kubernetes Engine, Canary, Blue-Green |
+| - | ![cdn 🪣⛷️🗻](https://github.com/miozilla/cdn) |Cloud CDN | Content Delivery Network, Cache, Bucket, Load Balancer, Edge | 
 | - | ![clfc02d1 💾☁️🪣](https://github.com/miozilla/clfc02d1) | Amazon S3 | Simple Storage Service, Bucket Policy, CLF-C02 | 
 | - | ![clfc02d2 ⚡🌉⌚](https://github.com/miozilla/clfc02d2) | AWS Lambda Amazon EventBridge | Monitoring, EC2, CloudWatch, CLF-C02 | 
 | - | ![clfc02d3 🖼️💻📦](https://github.com/miozilla/clfc02d3) | Amazon Machine Image | AMI, EC2, EBS, CLF-C02 | 
