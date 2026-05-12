@@ -32,9 +32,15 @@ DevOps
 | - | ![nodejskube 📗🧊](https://github.com/miozilla/nodejskube) | Node.js App on Kubernetes Cluster | Scaling, Workload, GKE, Docker, gcloud, kubectl, Pod, Load Balancer, Replication, Version, Roll Out, Health Check | 
 | - | ![oraclecomput 🐧](https://github.com/miozilla/oraclecomput) | Azure Compute | Compute, vm, bash, ssh, key-pair, oracle-linux8 |
 | - | ![pubsub 🚰](https://github.com/miozilla/pubsub) | Google Pub/Sub | Pub/Sub |
+| - | ![rancher 🦬☸️🦎](https://github.com/miozilla/rancher) | Kubernetes Management Tool | Rancher, Deployment, Container, kubectl, Helm, k3s, docker cli, nerdctl, SUSE | 
 | - | ![rdocker 🐍🥷🌶️](https://github.com/miozilla/rdocker) | Dev Container | VS Code, Docker, Python, Node.js, Flask, Jinja, azure-cli | 
 | - | ![redisossentmig 🧧⚡🗄️](https://github.com/miozilla/redisossentmig) | OSS to Redis Enterprise Migration | Scaling Microservices Apps, e-Commerce, Google Cloud, Redis Input Output Tool (RIOT), Kubernetes | 
 | - | ![stepsightbird 👣🔭🦅](https://github.com/miozilla/stepsightbird) | Bird Sighting | AWS Step Functions, Lambda, SNS, Cloud9, Cognito |
 | - | ![terraformgm](https://github.com/miozilla/terraformgm) | Terraform GCP | Terraform |
 | - | ![unittest 🐍🧪🐛](https://github.com/miozilla/unittest) | Unit Testing | Python, Bug Fixes, Try Except, Assertion, Missing parameters |
 | - | :-: | :-: | :-: |
+
+
+
+
+
