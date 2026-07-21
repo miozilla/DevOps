@@ -40,6 +40,7 @@ DevOps
 | - | ![stepsightbird 👣🔭🦅](https://github.com/miozilla/stepsightbird) | Bird Sighting | AWS Step Functions, Lambda, SNS, Cloud9, Cognito |
 | - | ![terraformgm](https://github.com/miozilla/terraformgm) | Terraform GCP | Terraform |
 | - | ![unittest 🐍🧪🐛](https://github.com/miozilla/unittest) | Unit Testing | Python, Bug Fixes, Try Except, Assertion, Missing parameters |
+| - | ![webhooksbot 🚚🛒📧](https://github.com/miozilla/webhooksbot) | Inventory Management | AppSheet, Google Chat, Webhooks, Automation Bots, Notification, Product, Shipping, REST API, Integration | 
 | - | :-: | :-: | :-: |
 
 
