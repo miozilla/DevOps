@@ -27,6 +27,7 @@ DevOps
 | - | ![jenkinsonkube 🛞👨‍🍳⚓](https://github.com/miozilla/jenkinsonkube) | Jenkins on Kubernetes Engine | Helm, Jenkins, Kubernetes Cluster | 
 | - | ![jensiform 🤵🏻](https://github.com/miozilla/jensiform) | Infrastructure | Jenkins, Ansible, Terraform |
 | - | ![logic-app 📳](https://github.com/miozilla/logic-app) | RSS Market Feed, Social Media Content Distribution | Logic-app |
+| - | ![mavenjavart 🐦‍⬛☕🗄️](https://github.com/miozilla/mavenjavart) | Maven & Java Dependencies in Artifact Registry | CI/CD, Cloud Code, Language Packages, org.springframework.boot |
 | - | ![miorgcmon 🪔🕵️‍♂️👾](https://github.com/miozilla/miorgcmon) | Cloud Observability Monitoring | LAMP, Uptime check, alerting policy, logging, dashboard & chart | 
 | - | ![mioriot 📶](https://github.com/miozilla/mioriot) | Internet of Things | IoT-hub, central-app |
 | - | ![nodejskube 📗🧊](https://github.com/miozilla/nodejskube) | Node.js App on Kubernetes Cluster | Scaling, Workload, GKE, Docker, gcloud, kubectl, Pod, Load Balancer, Replication, Version, Roll Out, Health Check | 
@@ -42,6 +43,7 @@ DevOps
 | - | ![unittest 🐍🧪🐛](https://github.com/miozilla/unittest) | Unit Testing | Python, Bug Fixes, Try Except, Assertion, Missing parameters |
 | - | ![webhooksbot 🚚🛒📧](https://github.com/miozilla/webhooksbot) | Inventory Management | AppSheet, Google Chat, Webhooks, Automation Bots, Notification, Product, Shipping, REST API, Integration | 
 | - | :-: | :-: | :-: |
+
 
 
 
