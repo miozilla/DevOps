@@ -17,6 +17,7 @@ DevOps
 | - | ![clfc02d2 ⚡🌉⌚](https://github.com/miozilla/clfc02d2) | AWS Lambda Amazon EventBridge | Monitoring, EC2, CloudWatch, CLF-C02 | 
 | - | ![clfc02d3 🖼️💻📦](https://github.com/miozilla/clfc02d3) | Amazon Machine Image | AMI, EC2, EBS, CLF-C02 | 
 | - | ![cloudrun 🏃🌩️](https://github.com/miozilla/cloudrun) | Managed Compute Platform | Cloud Run, Serverless, Stateless, Container | 
+| - | ![cloudscheduler ☁️🔩](https://github.com/miozilla/cloudscheduler) | Cloud Scheduler | Integration, Pub/Sub, Job, API, Cron, App Engine, Workload, Endpoint |
 | - | ![contapp001 🐳](https://github.com/miozilla/contapp001) | Container App | K8s, mcr, container-app |
 | - | ![controlmdag Ⓜ️🗡️](https://github.com/miozilla/controlmdag) | BMC Control-M Migration | Control M, Apache Airflow, DAGify, Composer | 
 | - | ![dockergcp 🐳👖⚓](https://github.com/miozilla/dockergcp) | Docker Container | Cloud Shell, Docker, Google Artifact Registry, Vulnerability | 
