@@ -25,7 +25,7 @@ DevOps
 | - | ![eventgridmqtt 🚡](https://github.com/miozilla/eventgridmqtt) | Event Grid | Event Grid, MQTT  |
 | - | ![frontakst 🎡](https://github.com/miozilla/frontakst) | Azure Kubernetes Service | AKS, terraform, rabbitmq, prometheus, grafana, vue, rust, node |
 | - | ![functapp001 🌩️](https://github.com/miozilla/functapp001) | Function App | Azure_function_app |
-| - | ![gitopsgke ♐👮](https://github.com/miozilla/gitopsgke) | GitOps on GKE | Deploy Workload, Zero-Downtime Rolling Updates, Policy Controller, Mutation Support, Synchronization Status, Webhook |
+| - | ![gitopsgke ♐👮](https://github.com/miozilla/gitopsgke) | GitOps Continuous Deployment on GKE | Deploy Workload, Zero-Downtime Rolling Updates, Policy Controller, Mutation Support, Synchronization Status, Webhook |
 | - | ![gke-hello-app 🧊🙋](https://github.com/miozilla/gke-hello-app) | Google Kubernetes Engine Cluster Demo | GKE, Gemini, Cloud Architect |
 | - | ![jenkinsonkube 🛞👨‍🍳⚓](https://github.com/miozilla/jenkinsonkube) | Jenkins on Kubernetes Engine | Helm, Jenkins, Kubernetes Cluster | 
 | - | ![jensiform 🤵🏻](https://github.com/miozilla/jensiform) | Infrastructure | Jenkins, Ansible, Terraform |
