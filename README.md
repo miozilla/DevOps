@@ -37,6 +37,7 @@ DevOps
 | - | ![nodejskube 📗🧊](https://github.com/miozilla/nodejskube) | Node.js App on Kubernetes Cluster | Scaling, Workload, GKE, Docker, gcloud, kubectl, Pod, Load Balancer, Replication, Version, Roll Out, Health Check | 
 | - | ![nodejsrunfunc ☁️🏃](https://github.com/miozilla/nodejsrunfunc) | Cloud Run Functions | Event-Driven, Trigger, Service, Node.js | 
 | - | ![oraclecomput 🐧](https://github.com/miozilla/oraclecomput) | Azure Compute | Compute, vm, bash, ssh, key-pair, oracle-linux8 |
+| - | ![podmonodexus 📈♾️](https://github.com/miozilla/podmonodexus) | Prometheus Metrics | PodMonitoring, Node-Exporter, GKE, Google Managed Service for Prometheus, TSDB |
 | - | ![projmon 🔭🔔](https://github.com/miozilla/projmon) | Monitoring Multiple Projects | Cloud Monitoring, Alerting, Notifications, Policies, Metrics, Dashboards, Uptime Check |
 | - | ![pubsub 🚰](https://github.com/miozilla/pubsub) | Google Pub/Sub | Pub/Sub |
 | - | ![rancher 🦬☸️🦎](https://github.com/miozilla/rancher) | Kubernetes Management Tool | Rancher, Deployment, Container, kubectl, Helm, k3s, docker cli, nerdctl, SUSE | 
