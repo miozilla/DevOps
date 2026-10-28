@@ -19,6 +19,7 @@ DevOps
 | - | ![cloudops 🌨️⚙️📊](https://github.com/miozilla/cloudops) | Cloud Operations | GKE, Stackdriver, Metrics, Logs, Monitoring, Dashboards, Alerts, IAC |
 | - | ![cloudrun 🏃🌩️](https://github.com/miozilla/cloudrun) | Managed Compute Platform | Cloud Run, Serverless, Stateless, Container | 
 | - | ![cloudscheduler ☁️🔩](https://github.com/miozilla/cloudscheduler) | Cloud Scheduler | Integration, Pub/Sub, Job, API, Cron, App Engine, Workload, Endpoint |
+| - | ![compsol 💻📈](https://github.com/miozilla/compsol) | Computing Solutions | Application Performance Upgrade, Workload, EC2, Instance Type, Session Manager, Console |
 | - | ![contapp001 🐳](https://github.com/miozilla/contapp001) | Container App | K8s, mcr, container-app |
 | - | ![controlmdag Ⓜ️🗡️](https://github.com/miozilla/controlmdag) | BMC Control-M Migration | Control M, Apache Airflow, DAGify, Composer | 
 | - | ![dockergcp 🐳👖⚓](https://github.com/miozilla/dockergcp) | Docker Container | Cloud Shell, Docker, Google Artifact Registry, Vulnerability | 
