@@ -36,6 +36,7 @@ DevOps
 | - | ![mavenjavart 🐦‍⬛☕🗄️](https://github.com/miozilla/mavenjavart) | Maven & Java Dependencies in Artifact Registry | CI/CD, Cloud Code, Language Packages, org.springframework.boot |
 | - | ![miorgcmon 🪔🕵️‍♂️👾](https://github.com/miozilla/miorgcmon) | Cloud Observability Monitoring | LAMP, Uptime check, alerting policy, logging, dashboard & chart | 
 | - | ![mioriot 📶](https://github.com/miozilla/mioriot) | Internet of Things | IoT-hub, central-app |
+| - | ![netwrely 🕸️🚦](https://github.com/miozilla/netwrely) | Network Reliability Engineering | Network Intelligence, Flow Analyzer, Cloud Operations, Performance Alert, Data Exfiltration, Traffic Burst, SRE |
 | - | ![nodejskube 📗🧊](https://github.com/miozilla/nodejskube) | Node.js App on Kubernetes Cluster | Scaling, Workload, GKE, Docker, gcloud, kubectl, Pod, Load Balancer, Replication, Version, Roll Out, Health Check | 
 | - | ![nodejsrunfunc ☁️🏃](https://github.com/miozilla/nodejsrunfunc) | Cloud Run Functions | Event-Driven, Trigger, Service, Node.js | 
 | - | ![oraclecomput 🐧](https://github.com/miozilla/oraclecomput) | Azure Compute | Compute, vm, bash, ssh, key-pair, oracle-linux8 |
